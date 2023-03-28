@@ -18,3 +18,5 @@ elif player == 'scissor' and computer == 'paper':
     print('you win')
 else:
     print('you lose')
+    #تنها چیزی که لازمه بلد باشید اینه که چجور هر دفعه بین اعضای یک لیست یک مورد رو بصورت تصادفی انتخاب کنید
+
